@@ -27,3 +27,5 @@ To improve Vrinda Store's sales:
 
 Target women customers aged between 30-49 residing in Maharashtra, Karnataka & Uttar Pradesh.
 Employ marketing strategies, ads, offers, or coupons available on Amazon, Flipkart, and Myntra, the channels contributing significantly to sales.
+![Vrinda Annual Report 2022](https://github.com/PankajTechExpert/Vrinda-Sales-Annual-Report/assets/166281091/b177f182-3a94-43ae-aebb-47b0520cb579)
+
