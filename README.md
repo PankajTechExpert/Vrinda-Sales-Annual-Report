@@ -1,6 +1,6 @@
 # Vrinda-Sales-Annual-Report 2022
 This repository contains an Excel-based dashboard for analyzing the sales data of Vrinda Stores for the year 2022. The dashboard was built to answer specific questions and derive insights to help in understanding customer behavior and improving sales strategies for 2023.
-
+![Vrinda Annual Report 2022](https://github.com/PankajTechExpert/Vrinda-Sales-Annual-Report/assets/166281091/b177f182-3a94-43ae-aebb-47b0520cb579)
 # Objective
 Vrinda Stores aimed to create an annual sales report for 2022 to understand their customers better and enhance sales strategies for the following year. Sample questions that guided the analysis included:
 
@@ -27,5 +27,5 @@ To improve Vrinda Store's sales:
 
 Target women customers aged between 30-49 residing in Maharashtra, Karnataka & Uttar Pradesh.
 Employ marketing strategies, ads, offers, or coupons available on Amazon, Flipkart, and Myntra, the channels contributing significantly to sales.
-![Vrinda Annual Report 2022](https://github.com/PankajTechExpert/Vrinda-Sales-Annual-Report/assets/166281091/b177f182-3a94-43ae-aebb-47b0520cb579)
+
 
